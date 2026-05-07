@@ -1,2 +1,2 @@
-# Implicit-Representation-of-3D-Geometry-Data
+# Implicit-Representations-of-3D-Geometry
 Coming soon.
